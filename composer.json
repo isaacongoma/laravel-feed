@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-feed",
+    "name": "isaacongoma/laravel-feed",
     "description": "Generate rss feeds",
     "keywords": [
         "spatie",
@@ -11,30 +11,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Jolita Grazyte",
-            "email": "jolita@spatie.be",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
-        },
-        {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
-        },
-        {
-            "name": "Sebastian De Deyne",
-            "email": "sebastian@spatie.be",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
+            "name": "Isaac Ongoma",
+            "email": "isaacshisia@gmail.com"
         }
     ],
     "require": {
-        "php" : "^7.4|^8.0",
-        "illuminate/support": "^7.0|^8.0",
-        "illuminate/http": "^7.0|^8.0",
-        "illuminate/contracts": "^7.0|^8.0",
-        "spatie/laravel-package-tools": "^1.5"
+        "php": ">=5.3.0",
+        "illuminate/support": "6.*",
     },
     "require-dev": {
         "phpunit/phpunit": "^9.3",
